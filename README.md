@@ -8,4 +8,6 @@ Idea of a Fibonacci display and the incremental drift algorithm by [Jim Bumgardn
 
 Use fibonacci.pde to generate a PDF as a template for your LED layout. Sample is included here.
 
-This all fits in a regular Arduino UNO or Nano or cheap chinese clones. See it [in action](https://www.youtube.com/watch?v=xhRIYm21miU).
+This all fits in a regular Arduino UNO or Nano or cheap chinese clones. See it [in action](https://www.youtube.com/watch?v=xhRIYm21miU):
+
+[![fibonacci in action](https://img.youtube.com/vi/xhRIYm21miU/0.jpg)](https://www.youtube.com/watch?v=xhRIYm21miU)
